@@ -1,0 +1,16 @@
+
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# UV virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
